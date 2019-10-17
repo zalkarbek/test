@@ -7,4 +7,8 @@ class Animal {
 	getName() {
 		return this
 	}
+	
+	getTempName() {
+		console.log("TEST LOGS")
+	}
 }
