@@ -5,10 +5,14 @@ class Animal {
 	}
 	
 	getName() {
-		return this
+		return this.name
 	}
 	
 	getTempName() {
 		console.log("TEST LOGS")
+	}
+	
+	getAllName() {
+		return this.names
 	}
 }
