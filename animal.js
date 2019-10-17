@@ -10,5 +10,6 @@ class Animal {
 	
 	getNewTemp() {
 		console.log("TEST LOGS")
+		return "TEST.LOGS COMPLETED"; 
 	}
 }
