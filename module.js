@@ -7,4 +7,7 @@ export default {
 	getFullName() {
 		return "James Cook"
 	}
+	getModuleName() {
+		return "MAIN_MODULE"
+	}
 }
